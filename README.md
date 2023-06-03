@@ -8,15 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [PPAM_Nille](https://github.com/T0MYAMMM/PPAM_Nille)
+- 🔭 I’m currently working on [ReCreate](https://github.com/T0MYAMMM/ReCreate_ML)
 
 - 🌱 I’m currently learning **React Native, TensorFlow**
 
 - 👨‍💻 All of my projects are available at [https://github.com/T0MYAMMM](https://github.com/T0MYAMMM)
 
-- 💬 Ask me about **Python, Machine Learning, React Native**
-
-- 📫 How to reach me **samoht.nefets@gmail.com**
+- 📫 How to reach me **samoht.nefets@gmail.com** [**@portfolionyatom**](https://instagram.com/portofolionyatom) [**MyPortfolios**](https://portfolionyatom.vercel.app)
 
 - ⚡ Fun fact **I know what is the color of nothing**
 
