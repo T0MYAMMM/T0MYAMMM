@@ -1,7 +1,7 @@
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/016/362/200/original/elizabeth-gross-acs-count-down-400px.gif?1551878609)](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 
 <h1 align="center">Hi 👋, I'm Thomas Stefen Mardianto</h1>
-<h3 align="center">A passionate information system student from Institut Technology Bandung</h3>
+<h3 align="center">A passionate Information System and Technology (IST) student from ITB</h3>
 <img align="right" alt "Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJmYjlkMmFmYjg3NDM4MDk1OWJmODA5OGM5NTNiYjI1YjVlMDEyYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t0myammm&label=Profile%20views&color=0e75b6&style=flat" alt="t0myammm" /> </p>
