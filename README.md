@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/T0MYAMMM](https://github.com/T0MYAMMM)
 
-- 📫 How to reach me **samoht.nefets@gmail.com** [**@portfolionyatom**](https://instagram.com/portofolionyatom) [**MyPortfolios**](https://portfolionyatom.vercel.app)
+- 📫 How to reach me **thomasstefenm@gmail.com** [**@portfolionyatom**](https://instagram.com/portofolionyatom) [**MyPortfolios**](https://portfolionyatom.vercel.app)
 
 - ⚡ Fun fact **I know what is the color of nothing**
 
